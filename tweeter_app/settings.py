@@ -9,6 +9,7 @@ https://docs.djangoproject.com/en/3.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.0/ref/settings/
 """
+# eafd33f7-08b3-4726-99c0-92b7abe3b5f0
 
 import os
 import django_heroku # <- this line goes near the top of the file
